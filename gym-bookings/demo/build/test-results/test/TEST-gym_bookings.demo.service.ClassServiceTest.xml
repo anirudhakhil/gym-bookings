@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="gym_bookings.demo.service.ClassServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-02-04T05:52:08" hostname="HYD-ANIKOT-AP" time="1.446">
+  <properties/>
+  <testcase name="createClass_overlapClass_shouldThrowError()" classname="gym_bookings.demo.service.ClassServiceTest" time="1.446"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
